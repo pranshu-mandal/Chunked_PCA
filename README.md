@@ -21,7 +21,7 @@ Chunked PCA is a technique for removing common-mode noise from time-series data,
 ```bash
 git clone https://github.com/pranshu-mandal/Chunked_PCA.git
 cd Chunked_PCA
-pip install -r requirements.txt  # If you create a requirements file
+pip install -r requirements.txt  
 ```
 
 ## Usage
